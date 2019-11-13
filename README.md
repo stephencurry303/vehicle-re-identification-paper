@@ -42,9 +42,9 @@ review of papers of vehicle re-identification
     * Yan K, Tian Y, Wang Y, et al. Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-similar Vehicles[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 562-570.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)
     
 4、 A Dual-Path Model With Adaptive Attention For Vehicle Re-Identification
-   * Khorramshahi P, Kumar A, Peri N, et al. A Dual Path ModelWith Adaptive Attention For Vehicle Re-Identification[J]. arXiv preprint arXiv:1905.03397, 2019.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)
+    * Khorramshahi P, Kumar A, Peri N, et al. A Dual Path ModelWith Adaptive Attention For Vehicle Re-Identification[J]. arXiv preprint arXiv:1905.03397, 2019.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)
 
 5、 Vehicle Re-identification with Viewpoint-aware Metric Learning
-   * Chu R, Sun Y, Li Y, et al. Vehicle Re-identification with Viewpoint-aware Metric Learning[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 8282-8291.[[pdf]](https://arxiv.org/abs/1905.03397)
+    * Chu R, Sun Y, Li Y, et al. Vehicle Re-identification with Viewpoint-aware Metric Learning[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 8282-8291.[[pdf]](https://arxiv.org/abs/1905.03397)
 
 
