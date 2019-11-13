@@ -32,11 +32,7 @@ review of papers of vehicle re-identification
     * Tang, Z. et al. (2018). NVIDIA AI City Challenge Workshop at CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)
     
 ### ICCV
-1、 2019—— A Dual-Path Model With Adaptive Attention For Vehicle Re-Identification[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)
-
-2、 2019—— Vehicle Re-identification with Viewpoint-aware Metric Learning[[pdf]](https://arxiv.org/abs/1905.03397)
-
-. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification
+1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification
     * Wang Z, Tang L, Liu X, et al. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 379-387. [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
 
 2. Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals
@@ -44,3 +40,9 @@ review of papers of vehicle re-identification
 
 3. Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-similar Vehicles
     * Yan K, Tian Y, Wang Y, et al. Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-similar Vehicles[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 562-570.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)
+    
+4、 2019—— A Dual-Path Model With Adaptive Attention For Vehicle Re-Identification[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)
+
+5、 2019—— Vehicle Re-identification with Viewpoint-aware Metric Learning[[pdf]](https://arxiv.org/abs/1905.03397)
+
+
