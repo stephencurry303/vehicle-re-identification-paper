@@ -46,5 +46,59 @@ review of papers of vehicle re-identification
 
 5. Vehicle Re-identification with Viewpoint-aware Metric Learning
     * Chu R, Sun Y, Li Y, et al. Vehicle Re-identification with Viewpoint-aware Metric Learning[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 8282-8291.[[pdf]](https://arxiv.org/abs/1905.03397)
+    
+### ECCV
+1. A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance
+    * Liu X, Liu W, Mei T, et al. A deep learning-based approach to progressive vehicle re-identification for urban surveillance[C]//European Conference on Computer Vision. Springer, Cham, 2016: 869-884.[[paper]](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+    
+### IJCAI
+1. Fast vehicle identification via ranked semantic sampling based embedding
+    * Zheng F, Miao X, Huang H. Fast vehicle identification via ranked semantic sampling based embedding[C]//Proceedings of the 27th International Joint Conference on Artificial Intelligence. AAAI Press, 2018: 3697-3703.[[pdf]](https://www.ijcai.org/proceedings/2018/0514.pdf)
+
+### PR
+1. VR-PROUD: Vehicle Re-identification using PROgressive Unsupervised Deep architecture
+    * Bashir R M S, Shahzad M, Fraz M M. VR-PROUD: Vehicle Re-identification Using PROgressive Unsupervised Deep Architecture[J]. Pattern Recognition, 2019.[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)
+    
+### IP
+1. Vehicle re-identification by deep hidden multi-view inference
+    * Zhou Y, Liu L, Shao L. Vehicle re-identification by deep hidden multi-view inference[J]. IEEE Transactions on Image Processing, 2018, 27(7): 3275-3287.[[paper]](https://ieeexplore.ieee.org/abstract/document/8325486)
+    
+2. Embedding Adversarial Learning for Vehicle Re-Identification
+    * Lou Y, Bai Y, Liu J, et al. Embedding Adversarial Learning for Vehicle Re-Identification[J]. IEEE Transactions on Image Processing, 2019.[[paper]](https://ieeexplore.ieee.org/abstract/document/8653852)
+
+### ICME
+1. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos
+    * Liu X, Liu W, Ma H, et al. Large-scale vehicle re-identification in urban surveillance videos[C]//Multimedia and Expo (ICME), 2016 IEEE International Conference on. IEEE, 2016: 1-6.[[paper]](https://ieeexplore.ieee.org/document/7553002/)
+    
+2. Improving triplet-wise training of convolutional neural network for vehicle re-identification
+    * Zhang Y, Liu D, Zha Z J. Improving triplet-wise training of convolutional neural network for vehicle re-identification[C]//Multimedia and Expo (ICME), 2017 IEEE International Conference on. IEEE, 2017: 1386-1391.[[paper]](https://ieeexplore.ieee.org/abstract/document/8019491/)
+    
+3. Deep hashing with multi-task learning for large-scale instance-level vehicle search
+    * Liang D, Yan K, Wang Y, et al. Deep hashing with multi-task learning for large-scale instance-level vehicle search[C]//Multimedia & Expo Workshops (ICMEW), 2017 IEEE International Conference on. IEEE, 2017: 192-197.[[paper]](https://ieeexplore.ieee.org/abstract/document/8026274/)
+
+4. Ram: a region-aware deep model for vehicle re-identification
+    * Liu X, Zhang S, Huang Q, et al. Ram: a region-aware deep model for vehicle re-identification[C]//2018 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2018: 1-6.[[Paper]](https://arxiv.org/pdf/1806.09283.pdf)
+    
+### AAAI
+1. Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification
+    * Guo H, Zhao C, Liu Z, et al. Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification[C]//Thirty-Second AAAI Conference on Artificial Intelligence. 2018.[[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)
+
+### MM
+1. PROVID- Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance
+    * Liu X, Liu W, Mei T, et al. PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance[J]. IEEE Transactions on Multimedia, 2018, 20(3): 645-658.[[paper]](https://ieeexplore.ieee.org/abstract/document/8036238/)
+
+2. Group Sensitive Triplet Embedding for Vehicle Re-identification
+    * Bai Y, Lou Y, Gao F, et al. Group Sensitive Triplet Embedding for Vehicle Re-identification[J]. IEEE Transactions on Multimedia, 2018.[[paper]](https://ieeexplore.ieee.org/abstract/document/8265213/)
+    
+### ACMMM
+1. VP-ReID: vehicle and person re-identification system
+    * Wei L, Liu X, Li J, et al. VP-ReID: vehicle and person re-identification system[C]//Proceedings of the 2018 ACM on International Conference on Multimedia Retrieval. ACM, 2018: 501-504.[[paper]](https://dl.acm.org/citation.cfm?id=3206086)
+
+### Others
+1. Multi-modal metric learning for vehicle re-identification in traffic surveillance environment
+    * Tang Y, Wu D, Jin Z, et al. Multi-modal metric learning for vehicle re-identification in traffic surveillance environment[C]//Image Processing (ICIP), 2017 IEEE International Conference on. IEEE, 2017: 2254-2258.[[paper]](https://ieeexplore.ieee.org/abstract/document/8296683/)
+
+2. Vehicle re-identification by fusing multiple deep neural networks
+    * Cui C, Sang N, Gao C, et al. Vehicle re-identification by fusing multiple deep neural networks[C]//Image Processing Theory, Tools and Applications (IPTA), 2017 Seventh International Conference on. IEEE, 2017: 1-6.[[paper]](https://ieeexplore.ieee.org/abstract/document/8310090/)
 
 
