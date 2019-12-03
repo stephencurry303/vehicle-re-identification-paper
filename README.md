@@ -18,6 +18,7 @@ review of papers of vehicle re-identification
 2. Deep Relative Distance Learning- Tell the Difference Between Similar Vehicles [[CVPR2016]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
 
 3. A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance [[ECCV2016]](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+
 4. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos [[ICME2016]](https://ieeexplore.ieee.org/document/7553002/)
 
 ### 2017
@@ -30,6 +31,14 @@ review of papers of vehicle re-identification
 4. Improving triplet-wise training of convolutional neural network for vehicle re-identification [[ICME2017]](https://ieeexplore.ieee.org/abstract/document/8019491/)
 
 5. Deep hashing with multi-task learning for large-scale instance-level vehicle search [[ICME2017]](https://ieeexplore.ieee.org/abstract/document/8026274/)
+
+6. Deep joint discriminative learning for vehicle re-identification and retrieval [[ICIP2017]](http://59.108.48.5/struct/Projects/DJDL/files/DJDL_icip2017.pdf)
+
+7. Vehicle Re-Identification by Fine-Grained Cross-Level Deep Learning [[BMVC2017]](http://www.eecs.qmul.ac.uk/~sgg/papers/KanaciEtAl_AMMDS2017.pdf)
+
+8. Multi-modal metric learning for vehicle re-identification in traffic surveillance environment [[ICIP2017]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296683)
+
+9. Vehicle re-identification by fusing multiple deep neural networks [[IPTA2017]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310090)
     
 ### 2018 
 1. Unsupervised Vehicle Re-Identification using Triplet Networks [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)
