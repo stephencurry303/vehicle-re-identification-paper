@@ -100,5 +100,7 @@ review of papers of vehicle re-identification
 
 2. Vehicle re-identification by fusing multiple deep neural networks
     * Cui C, Sang N, Gao C, et al. Vehicle re-identification by fusing multiple deep neural networks[C]//Image Processing Theory, Tools and Applications (IPTA), 2017 Seventh International Conference on. IEEE, 2017: 1-6.[[paper]](https://ieeexplore.ieee.org/abstract/document/8310090/)
+    
+## State-of-the-art Results on the VeRi-776 and VehilceID
 
 
