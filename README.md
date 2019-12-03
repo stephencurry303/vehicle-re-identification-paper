@@ -12,8 +12,8 @@ review of papers of vehicle re-identification
 * VRIC [[Project]](https://qmul-vric.github.io/) [[pdf]](http://www.eecs.qmul.ac.uk/~xiatian/papers/AytacEtAl_GCPR2018.pdf)
 
 ## paper
-### CVPR
-1. Vehicle Re-Identification for Automatic Video Traffic Surveillance
+### 2016
+1. Vehicle Re-Identification for Automatic Video Traffic Surveillance [[CVPR2016]](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)
     * Zapletal D, Herout A. Vehicle re-identification for automatic video traffic surveillance[C]//Computer Vision and Pattern Recognition Workshops (CVPRW), 2016 IEEE Conference on. IEEE, 2016: 1568-1574.[[pdf]](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)
     
 2. Deep Relative Distance Learning- Tell the Difference Between Similar Vehicles
