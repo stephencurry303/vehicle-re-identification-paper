@@ -11,9 +11,47 @@ review of papers of vehicle re-identification
 * Vehicle-1M[[Project]](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/Vehicle1M.htm) [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)
 * VRIC [[Project]](https://qmul-vric.github.io/) [[pdf]](http://www.eecs.qmul.ac.uk/~xiatian/papers/AytacEtAl_GCPR2018.pdf)
 ### paper of dataset
+#### VeRi
+1. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos [[ICME2016]](https://ieeexplore.ieee.org/document/7553002/)
+
+2. Improving triplet-wise training of convolutional neural network for vehicle re-identification [[ICME2017]](https://ieeexplore.ieee.org/abstract/document/8019491/)
+
 #### VeRi-776
+1. A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance [[ECCV2016]](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+
+2. Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)
+
+3. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
+
+4. Multi-modal metric learning for vehicle re-identification in traffic surveillance environment [[ICIP2017]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296683)
 
 
+#### VehicleID
+1. Deep Relative Distance Learning- Tell the Difference Between Similar Vehicles [[CVPR2016]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
+
+2. Vehicle Re-Identification by Fine-Grained Cross-Level Deep Learning [[BMVC2017]](http://www.eecs.qmul.ac.uk/~sgg/papers/KanaciEtAl_AMMDS2017.pdf)
+
+3. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
+
+4. Deep joint discriminative learning for vehicle re-identification and retrieval [[ICIP2017]](http://59.108.48.5/struct/Projects/DJDL/files/DJDL_icip2017.pdf)
+
+5. Improving triplet-wise training of convolutional neural network for vehicle re-identification [[ICME2017]](https://ieeexplore.ieee.org/abstract/document/8019491/)
+
+6. Vehicle re-identification by fusing multiple deep neural networks [[IPTA2017]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310090)
+
+#### CompCars
+1. Deep Relative Distance Learning- Tell the Difference Between Similar Vehicles [[CVPR2016]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
+
+2. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
+
+#### PKU-VD
+1. Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-similar Vehicles [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)
+
+#### BoxCars21K
+1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification [[ICCV2017]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
+
+#### VRID-1
+1. VRID-1: A Basic Vehicle Re-identification Dataset for Similar Vehicles [[IEEE2017]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317817)
 
 ## paper
 ### 2016
@@ -43,6 +81,8 @@ review of papers of vehicle re-identification
 8. Multi-modal metric learning for vehicle re-identification in traffic surveillance environment [[ICIP2017]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8296683)
 
 9. Vehicle re-identification by fusing multiple deep neural networks [[IPTA2017]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310090)
+
+10. VRID-1: A Basic Vehicle Re-identification Dataset for Similar Vehicles [[IEEE2017]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317817)
     
 ### 2018 
 1. Unsupervised Vehicle Re-Identification using Triplet Networks [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)
