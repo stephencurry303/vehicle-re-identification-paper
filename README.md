@@ -10,6 +10,10 @@ review of papers of vehicle re-identification
 * CompCars[[Project]](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html) [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yang_A_Large-Scale_Car_2015_CVPR_paper.pdf)
 * Vehicle-1M[[Project]](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/Vehicle1M.htm) [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)
 * VRIC [[Project]](https://qmul-vric.github.io/) [[pdf]](http://www.eecs.qmul.ac.uk/~xiatian/papers/AytacEtAl_GCPR2018.pdf)
+### paper of dataset
+#### VeRi-776
+
+
 
 ## paper
 ### 2016
